@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wilson Gutiérrez</h1>
 <h3 align="center">An estudent developer from Colombia</h3>
 
+<p align="left">I am a software engineering student and beginning developer. I am looking forward to learning, applying and working in the software industry as a developer. I am currently starting my way with Python.</p>
+
 ## HOBBIES :see_no_evil:
 
 * Anime :tv:
 * Movies :clapper:
 * Bicycling :bicyclist:
-
-<p align="left">I am a software engineering student and beginning developer. I am looking forward to learning, applying and working in the software industry as a developer. I am currently starting my way with Python.</p>
 
 - 🌱 I’m currently learning **Phyton**
 <h3 align="left">Connect with me:</h3>
