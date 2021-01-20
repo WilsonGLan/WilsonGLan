@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+My name is Wilson Gutierrez from Bogotá - Colombia. 
+
+## HOBBIES :see_no_evil:
+
+* Anime :tv:
+* Movies :clapper:
+* Bicycling :bicyclist:
+
+## Social Networks
+
+* https://twitter.com/Wilgut
+
+
 <!--
 **WilsonGLan/WilsonGLan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
